@@ -3,7 +3,7 @@
 An interactive end-to-end Machine Learning web application that estimates fair market resale prices of pre-owned vehicles based on historical CarDekho transaction data.
 
 ## 🚀 Live Demo
-🔗 [View the Live App on Streamlit Cloud](https://your-streamlit-app-link.streamlit.app)
+🔗 [View the Live App on Streamlit Cloud]([https://your-streamlit-app-link.streamlit.app](https://driveval-car-price-predictor-cnlvkyullz4edyr4zifdpv.streamlit.app/))
 
 ## 📌 Features
 - **Real-World Dataset:** Trained on 4,300+ validated automobile records across 29 manufacturers.
